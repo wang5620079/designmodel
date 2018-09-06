@@ -1,6 +1,6 @@
-import behivior.FlyWithWings;
-import behivior.Quack;
-import model.MallardDuck;
+import strategypattern.model.behivior.FlyWithWings;
+import strategypattern.model.behivior.Quack;
+import strategypattern.model.MallardDuck;
 
 public class Main {
 
