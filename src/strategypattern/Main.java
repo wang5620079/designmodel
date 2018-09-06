@@ -1,5 +1,7 @@
-import strategypattern.model.behivior.FlyWithWings;
-import strategypattern.model.behivior.Quack;
+package strategypattern;
+
+import strategypattern.behivior.FlyWithWings;
+import strategypattern.behivior.Quack;
 import strategypattern.model.MallardDuck;
 
 public class Main {
